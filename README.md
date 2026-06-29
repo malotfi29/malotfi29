@@ -20,7 +20,7 @@ Frontend Developer passionate about building beautiful and functional web experi
 |---------|-------------|------|
 | [Turino](https://github.com/malotfi29/final_project-turino) | booking tuor using API | Next |
 | [Giahland](https://github.com/malotfi29/giahland) | Online flower shop with cart & search | React, Tailwind |
-
+| [Admin panel](https://github.com/malotfi29/negar-lotfi_week19) | panel for admin | React|
 | [Note App](https://github.com/malotfi29/NoteApp) | Note taking application | JavaScript |
 
 ## 📫 Connect with Me
