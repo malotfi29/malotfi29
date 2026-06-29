@@ -18,8 +18,9 @@ Frontend Developer passionate about building beautiful and functional web experi
 ## 📂 Featured Projects
 | Project | Description | Tech |
 |---------|-------------|------|
+| [Turino](https://github.com/malotfi29/final_project-turino) | booking tuor using API | Next |
 | [Giahland](https://github.com/malotfi29/giahland) | Online flower shop with cart & search | React, Tailwind |
-| [Rick & Morty](https://github.com/malotfi29/rick-and-morty) | Character explorer using API | React |
+
 | [Note App](https://github.com/malotfi29/NoteApp) | Note taking application | JavaScript |
 
 ## 📫 Connect with Me
